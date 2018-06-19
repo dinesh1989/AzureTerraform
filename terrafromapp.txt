@@ -1,0 +1,8 @@
+Use the following configuration for your Terraform scripts:
+
+{
+      'client_id': ,
+      'client_secret': s?JA$UrMbD^;yuVTC+Z?tkkhc}N-vpX{zMVZbT2{AWO,
+      'subscription_id': 0492a59c-b53b-4fed-b7c0-b80a1fc8edb8,
+      'tenant_id': a8241368-6d7e-48d1-86e0-04edd15e55b2
+}
